@@ -1,0 +1,10 @@
+{
+    "name":"Tab Controller extension",
+    "version":"1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_title":"I will close all other tabs",
+        "default_popup":"popup.html",
+        "default_icon":"logo.png"
+    }
+}
